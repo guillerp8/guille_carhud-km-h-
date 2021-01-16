@@ -4,7 +4,7 @@
 
 A simple car hud that combines with my hud. Contains RPM, gear, fuel and km/h.
 
-To install it you must put in the server.cfg `ensure guille_carhud`
+To install it you must put in the server.cfg `ensure guille_carhud-km-h-`
 
 I hope you enjoy it.
 
