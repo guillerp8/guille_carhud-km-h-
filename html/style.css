@@ -3,6 +3,19 @@
     src: url('/html/font/digital-7.ttf');
 }
 
+body {
+    width: 100%;
+    overflow: hidden;
+    min-width:100%;
+    text-align: center;
+    right: 1vh;
+}
+
+#todo {
+    position: absolute;
+    bottom: 5vh;
+}
+
 #velocidad {
     font-family: fuente;
     text-align: center;    
