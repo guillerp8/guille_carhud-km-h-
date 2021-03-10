@@ -9,3 +9,5 @@ To install it you must put in the server.cfg `ensure guille_carhud-km-h-`
 I hope you enjoy it.
 
 You can see other scripts made by me in the cfx forum or in my git profile.
+
+LEVEL UP CTRL H DAME CRÉDITOS
